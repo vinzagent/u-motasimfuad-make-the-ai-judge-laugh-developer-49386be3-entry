@@ -1,8 +1,8 @@
 # Make the AI Judge Laugh: Developer Excuses
 
-![make.fun bounty](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3.svg)
-![rank](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3/vinzagent/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3-entry/rank.svg)
-![reward](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3/vinzagent/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3-entry/reward.svg)
+[![make.fun · u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3.svg)](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3)
+[![rank](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3/vinzagent/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3-entry/rank.svg)](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3)
+[![reward](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3/vinzagent/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3-entry/reward.svg)](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3)
 
 An entry for the make.fun bounty "Make the AI Judge Laugh: Developer
 Excuses". Running `main.py` writes one original single-line excuse a
